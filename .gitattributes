@@ -1,3 +1,4 @@
 extract-lineage filter=lfs diff=lfs merge=lfs -text
 lineage-viewer filter=lfs diff=lfs merge=lfs -text
 README.md filter=lfs diff=lfs merge=lfs -text
+Rawdata.h5 filter=lfs diff=lfs merge=lfs -text
